@@ -132,4 +132,5 @@ dmypy.json
 /data/real_estate/raw_real_estate_data.csv
 /data/real_estate/raw_rent_with_changes.csv
 /data/real_estate/nyc_gov_data/nyc_gov_real_estate.csv
+rental_vs_covid_ts.csv
 .ipynb_checkpoints/
